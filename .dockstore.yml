@@ -1,0 +1,6 @@
+version: 1.2
+workflows:
+  - name: WDL-101-test
+    subclass: WDL
+    primaryDescriptorPath: /Copy of wdl-101-bam.wdl
+    
